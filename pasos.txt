@@ -1,0 +1,2 @@
+consultar la version del servicio cloud
+escribir init6
