@@ -1,2 +1,5 @@
 consultar la version del servicio cloud
 escribir "init6"
+escribir uname -a
+bug name: Andres Bravo
+correo: crianbra@espol.edu.ec
